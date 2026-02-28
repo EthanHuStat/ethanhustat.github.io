@@ -1,5 +1,5 @@
-<!-- Page container with left and right margins -->
-<div style="margin-left: 10%; margin-right: 10%;">
+<!-- Page container with left and right margins; enable Markdown processing inside -->
+<div markdown="1" style="margin-left: 10%; margin-right: 10%;">
 
 <!-- Hide the default site title inserted by GitHub Pages theme -->
 <style>
