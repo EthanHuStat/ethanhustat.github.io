@@ -1,7 +1,7 @@
-<!-- Header with image and name side by side -->
-<div style="display:flex; align-items:center; margin-bottom:20px;">
-  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px; margin-right:20px;" />
+<!-- Header with name and profile picture aligned right -->
+<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px;">
   <h1 style="margin:0;">Yichen Hu</h1>
+  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px;">
 </div>
 
 <!--
@@ -30,9 +30,9 @@ I am **Yichen Hu**, a Ph.D. candidate in the Department of Statistics at the Un
 
 | Degree | Institution | Dates |
 |-------|-------------|-------|
-| **B.Sc. in Statistics** | Shanghai University of Finance and Economics | 2016 – 2020 |
-| **M.Sc. in Statistics** | University of California, Davis | 2021 – 2023 |
-| **Ph.D. in Statistics (in progress)** | University of California, Davis | 2023 – present |
+| **B.Sc. in Statistics** | Shanghai University of Finance and Economics | 2016 – 2020 |
+| **M.Sc. in Statistics** | University of California, Davis | 2021 – 2023 |
+| **Ph.D. in Statistics (in progress)** | University of California, Davis | 2023 – present |
 
 ---
 
