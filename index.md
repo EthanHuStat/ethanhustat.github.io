@@ -35,7 +35,7 @@
 
 ## Biography
 
-I am **Yichen Hu**, a Ph.D. candidate in the Department of Statistics at the University of California, Davis.  My research focuses on high‑dimensional statistics, graph networks, manifold learning and random matrix theory.  You can reach me at **ethhu@ucdavis.edu** and my publication can be found at [Google scholar](https://scholar.google.com/citations?user=heWVXBQAAAAJ&hl=en).
+I am **Yichen Hu**, a Ph.D. candidate in the Department of Statistics at the University of California, Davis, under the supervision of Dr. [Xiucai Ding](https://xcding1212.github.io/).  My research focuses on high‑dimensional statistics, graph networks, manifold learning and random matrix theory.  You can reach me at **ethhu@ucdavis.edu** and my publication can be found at [Google scholar](https://scholar.google.com/citations?user=heWVXBQAAAAJ&hl=en).
 
 ---
 
