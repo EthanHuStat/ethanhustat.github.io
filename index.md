@@ -1,6 +1,14 @@
 <!-- Page container with left and right margins -->
 <div style="margin-left: 10%; margin-right: 10%;">
 
+<!-- Hide the default site title inserted by GitHub Pages theme -->
+<style>
+/* Hide the first H1 within the markdown body (the site title) to avoid duplicate heading. */
+.markdown-body > h1:first-child {
+    display: none;
+}
+</style>
+
 <!-- Header with image and name side by side -->
 <div style="display:flex; align-items:center; margin-bottom:20px;">
   <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px; margin-right:20px;" />
