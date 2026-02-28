@@ -13,8 +13,6 @@
   headings or styling, but avoid long paragraphs to keep the page easy to read.
 -->
 
-## Table of contents
-
 1. [Biography](#biography)
 2. [Education](#education)
 3. [Research Interests](#research-interests)
