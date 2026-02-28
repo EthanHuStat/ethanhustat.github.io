@@ -12,9 +12,10 @@
 </style>
 
 <!-- Header with image and name side by side -->
-<div style="display:flex; align-items:center; margin-bottom:20px;">
-  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px; margin-right:20px;" />
+<!-- Header with name on the left and profile picture on the right -->
+<div style="display:flex; align-items:center; justify-content: space-between; margin-bottom:20px;">
   <h1 style="margin:0;">Yichen Hu</h1>
+  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px; margin-left:20px;" />
 </div>
 
 <!--
