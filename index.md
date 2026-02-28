@@ -1,7 +1,10 @@
-<!-- Header with name and profile picture aligned right -->
-<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px;">
+<!-- Page container with left and right margins -->
+<div style="margin-left: 10%; margin-right: 10%;">
+
+<!-- Header with image and name side by side -->
+<div style="display:flex; align-items:center; margin-bottom:20px;">
+  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px; margin-right:20px;" />
   <h1 style="margin:0;">Yichen Hu</h1>
-  <img src="profile.jpg" alt="Portrait of Yichen Hu" style="width:200px;">
 </div>
 
 <!--
@@ -22,7 +25,7 @@
 
 ## Biography
 
-I am **Yichen Hu**, a Ph.D. candidate in the Department of Statistics at the University of California, Davis.  My research focuses on high‑dimensional statistics, graph networks, manifold learning and random matrix theory.  You can reach me at **ethhu@ucdavis.edu** and here is my [Google scholar](https://scholar.google.com/citations?user=heWVXBQAAAAJ&hl=en) page.
+I am **Yichen Hu**, a Ph.D. candidate in the Department of Statistics at the University of California, Davis.  My research focuses on high‑dimensional statistics, graph networks, manifold learning and random matrix theory.  You can reach me at **ethhu@ucdavis.edu** and my publication can be found at [Google scholar](https://scholar.google.com/citations?user=heWVXBQAAAAJ&hl=en).
 
 ---
 
@@ -59,3 +62,5 @@ We investigate the edge eigenvalues of random geometric graphs (RGGs) generated 
 We propose a new method to test whether two populations have the same covariance matrix when the dimension is much larger than the sample sizes.  The procedure implement a bootstrap-like resampling of samples and splits each dataset into two parts to compute a novel statistic.  Unlike previous tests, our method does not assume comparable sample sizes or specific structures in the covariance matrices and does not require parametric distributions or knowledge of the populations’ moments.  We derive the asymptotic distribution of our statistic and conduct power analysis, showing that the test remains powerful under very weak alternatives.  Extensive simulations and analyses of two real datasets illustrate the superior performance of our approach.  An open‑source **R** package, `UHDtst`, implements the method.
 
 ---
+
+</div>
